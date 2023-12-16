@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1695632950 source:d:\study\embedded system ali shwaky\example\atm\main.c
+	<stdio.h>
+	<stdlib.h>
+
